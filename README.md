@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ManyLinesOfCode?color=gren&label=Followers&logo=GitHub) ![GitHub User's stars](https://img.shields.io/github/stars/ManyLinesOfCode?color=green&label=Stars&logo=GitHub)
 
 I'm ManyLinesOfCode. I build things for the web.
+I don't plan to open any public repositories any time soon, but you never know.
 
 # :computer: Languages
 
@@ -11,6 +12,12 @@ I'm ManyLinesOfCode. I build things for the web.
 - Ruby
 - Kotlin
 - Batch
+
+# :books: Currently learning
+
+- ReactJS
+- jQuery
+- Bash
 
 # :hammer_and_wrench: Tools
 
