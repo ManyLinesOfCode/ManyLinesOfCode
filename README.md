@@ -10,13 +10,13 @@ I don't plan to open any public repositories any time soon, but you never know.
 - JavaScript
 - TypeScript
 - Ruby
-- Kotlin
 - Batch
 
 # :books: Currently learning
 
 - ReactJS
 - jQuery
+- Kotlin
 - Bash
 
 # :hammer_and_wrench: Tools
