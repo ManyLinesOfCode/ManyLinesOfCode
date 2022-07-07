@@ -2,35 +2,15 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ManyLinesOfCode?color=gren&label=Followers&logo=GitHub) ![GitHub User's stars](https://img.shields.io/github/stars/ManyLinesOfCode?color=green&label=Stars&logo=GitHub)
 
-I'm ManyLinesOfCode. I build things for the web.
-I don't plan to open any public repositories any time soon, but you never know.
+I'm ManyLinesOfCode. I'm an amature developer who works mainly in webdev and game design/development. I enjoy the use of GNU/Linux-based operating systems.
+I have significant knowledge in the weblangs (HTML, JS, and CSS) and GDScript, but I also dabble in Ruby, x86-64 Assembly, and advanced Batch.
 
-# :computer: Languages
+# I'm Currently Working On
 
-- JavaScript
-- TypeScript
-- Ruby
-- Batch
+- A website (in a private repo)
+- A game in the Godot Engine
+- An upcoming repo; stay tuned!
 
-# :books: Currently learning
+#
 
-- ReactJS
-- jQuery
-- Kotlin
-- Bash
-
-# :hammer_and_wrench: Tools
-
-- [VSCode](https://code.visualstudio.com)
-- [Node.js](https://nodejs.dev)
-- [Git](https://git-scm.com)
-- [GitHub](https://github.com) (obviously)
-- [NPM](https://npmjs.com)
-- ...and [many](https://shields.io), [many](https://www.youtube.com/watch?v=dQw4w9WgXcQ) more.
-
-# :globe_with_meridians: Some useful websites
-
-- [MDN Web Docs](https://developer.mozilla.org)
-- [Microsoft Developer Center](https://developer.microsoft.com)
-- [Shields.io](https://shields.io)
-- and lastly, [GitHub's documentation](https://docs.github.com).
+_"The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past." - Tim Berners-Lee_
