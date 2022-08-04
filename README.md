@@ -9,7 +9,7 @@ I have significant knowledge in the weblangs (HTML, JS, and CSS) and GDScript, b
 
 - A website (in a private repo)
 - A game in the Godot Engine
-- An upcoming experiment; stay tuned!
+- The Mosaic Project
 
 #
 
