@@ -5,6 +5,8 @@
 I'm ManyLinesOfCode. I'm an amature developer who works mainly in webdev and game design/development. I enjoy the use of GNU/Linux-based operating systems.
 I have significant knowledge in the weblangs (HTML, JS, and CSS) and GDScript, but I also dabble in Ruby, x86-64 Assembly, and advanced Batch.
 
+Currently, the majority of my projects are kept private.
+
 # I'm Currently Working On
 
 - A website (in a private repo)
