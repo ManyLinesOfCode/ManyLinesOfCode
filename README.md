@@ -9,9 +9,9 @@ Currently, the majority of my projects are kept private.
 
 # I'm Currently Working On
 
-- A website (in a private repo)
+- A personal website
 - A game in the Godot Engine
-- The Mosaic Project
+- A tiny operating system
 
 #
 
